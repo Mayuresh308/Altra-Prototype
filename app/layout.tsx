@@ -9,7 +9,7 @@ import { Providers } from './providers';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'TradeSim - Real-Time Trading Simulator',
+  title: 'Altra - Real-Time Trading Simulator',
   description:
     'Experience real-time trading with our advanced trading simulator',
 };
