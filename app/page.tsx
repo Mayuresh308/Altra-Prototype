@@ -53,7 +53,7 @@ export default function Home() {
       {/* Hero Section with Fullscreen Image */}
       <section className="relative h-screen w-full">
         <Image
-          src="/hero image.jpg"
+          src="https://images.pexels.com/photos/7567520/pexels-photo-7567520.jpeg?auto=compress&cs=tinysrgb&w=600"
           alt="Trading Hero"
           layout="fill"
           objectFit="cover"
