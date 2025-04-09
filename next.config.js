@@ -8,3 +8,6 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+module.exports = {
+  output: 'export', // or 'standalone' depending on your target
+};
